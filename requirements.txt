@@ -1,0 +1,2 @@
+#Google pubsub
+google-cloud-pubsub==0.39.1
